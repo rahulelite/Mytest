@@ -1,2 +1,2 @@
 # Mytest
-Just for testing purpose
+Just for testing
